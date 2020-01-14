@@ -1,0 +1,4 @@
+# Instagram (DEPRECATED)
+### This script was created for the purpose of opening user profiles and full-resolution profile pictures on the desktop version of Instagram via keyboard and mouse combinations and hotkeys. Support for accessing these features on Instagram stories was made possible in combination with the [Downloader for Instagram™ + Direct Message](https://chrome.google.com/webstore/detail/downloader-for-instagram/olkpikmlhoaojbbmmpejnimiglejmboe) extension for Chrome.
+
+### The script utilized endpoints provided through Instagram's publicly accessible REST API to retrieve profile information and, eventually, the desired user profile or profile picture. The public API was deprecated by Instagram far ahead of schedule in April 2018 causing this script to no longer be functional. Due to the new requirements of having to register apps with a developer account to receive and use API keys, this script has also been deprecated.
